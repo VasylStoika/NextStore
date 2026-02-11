@@ -2228,4 +2228,4 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
             display: none !important;
           }
         }
-      `})]})};function M1(){return o.jsxs(o.Fragment,{children:[o.jsx(T1,{}),o.jsx(z1,{}),o.jsx(Ag,{children:o.jsxs(Hl,{path:"/",element:o.jsx(ky,{}),children:[o.jsx(Hl,{index:!0,element:o.jsx(b1,{})}),o.jsx(Hl,{path:"shop",element:o.jsx(x1,{})}),o.jsx(Hl,{path:"product/:id",element:o.jsx(S1,{})}),o.jsx(Hl,{path:"checkout",element:o.jsx(A1,{})})]})})]})}Np.createRoot(document.getElementById("root")).render(o.jsx(yp.StrictMode,{children:o.jsx(Fg,{children:o.jsx(Xy,{children:o.jsx(M1,{})})})}));
+      `})]})};function M1(){return o.jsxs(o.Fragment,{children:[o.jsx(T1,{}),o.jsx(z1,{}),o.jsx(Ag,{children:o.jsxs(Hl,{path:"/",element:o.jsx(ky,{}),children:[o.jsx(Hl,{index:!0,element:o.jsx(b1,{})}),o.jsx(Hl,{path:"shop",element:o.jsx(x1,{})}),o.jsx(Hl,{path:"product/:id",element:o.jsx(S1,{})}),o.jsx(Hl,{path:"checkout",element:o.jsx(A1,{})})]})})]})}Np.createRoot(document.getElementById("root")).render(o.jsx(yp.StrictMode,{children:o.jsx(Fg,{basename:"/NextStore",children:o.jsx(Xy,{children:o.jsx(M1,{})})})}));
